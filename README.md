@@ -12,7 +12,7 @@
 
  🔭 I’m currently studying Optimization and Artificial Intelligence at **ISIMA - Clermont Auvergne INP** 🇫🇷
  
- 🔭 I studied Software Engineering at **ENSIAS, University Mohammed V** 🇲🇦
+ 🔭 I studied Software Engineering at **ENSIAS - University Mohammed V** 🇲🇦
  
  🌱 I’m currently learning **Docker, Spark, AWS, Azure**
 
