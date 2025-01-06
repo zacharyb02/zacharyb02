@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zakaria!;" />
 </h1>
 
-<h3 align="center">A passionate Data Engineer / Data Scientist</h3>
+<h3 align="center">A passionate Artificial Intelligence Developer</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🔭 I studied Software Engineering at **ENSIAS - University Mohammed V** 🇲🇦
  
- 🌱 I’m currently learning **Docker, Spark, AWS, Azure**
+ 🌱 I’m currently learning **Docker, Spark, Azure**
 
 
 <br/>
