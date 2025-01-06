@@ -10,9 +10,9 @@
 
 <div align="center">
 
- 🔭 I’m currently studying Optimization and Artificial Intelligence at **ISIMA - Clermont Auvergne INP** 🇫🇷
+ 🔭 I’m currently studying Optimization & Artificial Intelligence at **ISIMA - Clermont Auvergne INP** 🇫🇷
  
- 🔭 I studied Software Engineering at **ENSIAS - University Mohammed V** 🇲🇦
+ 🔭 I studied Software Engineering at **ENSIAS - Mohammed V University** 🇲🇦
  
  🌱 I’m currently learning **Docker, Spark, Azure**
 
